@@ -308,7 +308,7 @@ async def on_message(message):
 
      
 def bot():
-  client.run('ODY5NDk1NzA0NjY0NTM5MjI2.YP_C-g.lbtXG7Dgl1c-bXdJXUJ8nE6Bmcs')
+  client.run('###token###')
 
 
 
